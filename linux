@@ -55,4 +55,4 @@ awk cmd - it is usefull for row and column file
           syntax awk '{print $ 2 or 3 }' file(giri.txt)(column)
           row ->   syntax awk NR==1 '{print $ 2 or 3 }' file(giri.txt)
 sort cmd - to view and show the files in ascending and deeending order 
- 
+
